@@ -1,0 +1,25 @@
+{
+  "name": "foodprint-oa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs203g2t10/foodprint-oa.git"
+  },
+  "author": "foodprint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs203g2t10/foodprint-oa/issues"
+  },
+  "homepage": "https://github.com/cs203g2t10/foodprint-oa#readme",
+  "dependencies": {
+    "@govtechsg/open-attestation": "^6.1.0",
+    "express": "^4.17.1",
+    "i": "^0.3.7",
+    "npm": "^7.24.1"
+  }
+}
