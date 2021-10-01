@@ -1,4 +1,4 @@
-# Foodprint OpenAssertation Vaccination Certificate Validator
+# Foodprint OpenAssertation Vaccine Validator
 
 Exposes a single REST endpoint to validate and verify vaccination HealthCerts issued by Ministry of Health Singapore.
 
