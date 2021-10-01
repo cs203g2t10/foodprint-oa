@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node app.mjs",
+    "dev": "nodemon app.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,6 +22,7 @@
     "@govtechsg/open-attestation": "^6.1.0",
     "express": "^4.17.1",
     "i": "^0.3.7",
+    "nodemon": "^2.0.13",
     "npm": "^7.24.1"
   }
 }
